@@ -1,0 +1,22 @@
+{
+  "name": "@fiveid/loopy",
+  "version": "0.0.1",
+  "description": "Nested loops",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest",
+    "build": "tsc --project tsconfig.json"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/jest": "^25.1.1",
+    "jest": "^25.1.0",
+    "ts-jest": "^25.2.0",
+    "typescript": "^3.7.5"
+  },
+  "keywords": [],
+  "publishConfig": {
+    "access": "public"
+  }
+}
